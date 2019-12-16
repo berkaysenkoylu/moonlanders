@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 4f067e300570bbe4b8143ae0811ef731
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Landing_parts
+    100002: //RootNode
+    100004: Propulsion_exhaust
+    100006: Ship_body
+    100008: Ship_details
+    100010: Tubes
+    400000: Landing_parts
+    400002: //RootNode
+    400004: Propulsion_exhaust
+    400006: Ship_body
+    400008: Ship_details
+    400010: Tubes
+    2100000: ship_propulsion
+    2100002: ship_landing_parts
+    2100004: ship_details_1
+    2100006: ship_details_3
+    2100008: ship_details_2
+    2100010: ship_details_4
+    2100012: Ship_tubes
+    2100014: Ship_body
+    2300000: Landing_parts
+    2300002: Propulsion_exhaust
+    2300004: Ship_body
+    2300006: Ship_details
+    2300008: Tubes
+    3300000: Landing_parts
+    3300002: Propulsion_exhaust
+    3300004: Ship_body
+    3300006: Ship_details
+    3300008: Tubes
+    4300000: Propulsion_exhaust
+    4300002: Landing_parts
+    4300004: Ship_details
+    4300006: Tubes
+    4300008: Ship_body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ship_body
+    second: {fileID: 2100000, guid: ac7a370f9f333d243aab1b97e1460bb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ship_tubes
+    second: {fileID: 2100000, guid: d6adfa9ea7f01be4eb727c18a8bda86e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ship_details_1
+    second: {fileID: 2100000, guid: d2bd58d6c06755b46ab86f96a86121ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ship_details_2
+    second: {fileID: 2100000, guid: 471575340d3a7c34baaebb585eacbfa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ship_details_3
+    second: {fileID: 2100000, guid: 5cee2f48bf01fa341a4757271d0ee96a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ship_details_4
+    second: {fileID: 2100000, guid: c46e51d5b88590745b7cda51efa6374b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ship_landing_parts
+    second: {fileID: 2100000, guid: fcefde4ecf9ce50458b2b7880c363105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ship_propulsion
+    second: {fileID: 2100000, guid: e4b9f2617553d1d4fa1ea16119e81c49, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
